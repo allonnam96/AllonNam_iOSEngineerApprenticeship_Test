@@ -1,5 +1,7 @@
 Developed an intuitive and user-friendly app that allows users to explore and navigate a wide variety of desserts using a seamless API integration. The app features a clean and responsive interface built with SwiftUI, providing users with a visually appealing experience. Through efficient API calls, the app fetches detailed information about each dessert, including images, ingredients, and preparation instructions, enabling users to discover new recipes and save their favorites with ease. This project showcases my ability to build and maintain scalable, performant, and elegant iOS applications.
 
+**Key Note: Implementing LRUCache helped my app by minimizing repeated data fetching or computations, thus speeding up overall performance.
+
 
 1. Home Page - seamless navigation and fast reload.
 
